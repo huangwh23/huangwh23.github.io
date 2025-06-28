@@ -9,38 +9,10 @@ redirect_from:
 ---
 
 
-I'm Huang Weihong, a PHD student from Tsinghua University(THU).
+My name is Weihong Huang, I‘m currently pursuing my PhD degree in the Department of Engineering Physics at Tsinghua University, my research interests are accelerator physics.
 
-# Common use command
+# Reserach interest
+- Collective instabilities in electron storage rings
 
-git status
-
-git add something
-
-git commit -m "your comment"
-
-git push
-
-bundle install
-
-bundle exec jekyll serve
-
-```python
-end
-123123
-123
-12
-31
-231
-23
-1
-23asdf
-as
-df
-asd
-fa
-sdf
-asdf
-```
 
 [Working Paper](/files/paper1.pdf)
